@@ -1,4 +1,4 @@
-﻿The Project Gutenberg eBook, How to Camp Out, by John M. Gould
+The Project Gutenberg eBook, How to Camp Out, by John M. Gould
 
 
 This eBook is for the use of anyone anywhere at no cost and with
@@ -43,109 +43,15 @@ Note: Project Gutenberg also has an HTML version of this
 
 
 
-Hints for Camping and Walking.
 
-HOW TO CAMP OUT.
-
-by
-
-JOHN M. GOULD,
-
-Author of History of First-Tenth-Twenty-Ninth Maine Regiment.
-
-First published in 1877
-
-
-
-
-
-
-
-CONTENTS.
-
-
-CHAPTER.
-
-   I. GETTING READY                                            9
-
-  II. SMALL PARTIES TRAVELLING AFOOT AND CAMPING              14
-
- III. LARGE PARTIES AFOOT WITH BAGGAGE-WAGON                  25
-
-  IV. CLOTHING                                                35
-
-   V. STOVES AND COOKING-UTENSILS                             39
-
-  VI. COOKING                                                 44
-
- VII. MARCHING                                                50
-
-VIII. THE CAMP                                                60
-
-  IX. TENTS, TENT POLES AND PINS                              72
-
-   X. MISCELLANEOUS.--GENERAL ADVICE                          90
-
-  XI. DIARY                                                  107
-
- XII. "HOW TO DO IT," BY REV. EDWARD EVERETT HALE, &C.       113
-
-XIII. HYGIENIC NOTES, BY DR. ELLIOTT COUES, U.S.A.           117
-
-
-
-
-PREFACE.
-
-
-In these few pages I have tried to prepare something about camping and
-walking, such as I should have enjoyed reading when I was a boy; and,
-with this thought in my mind, I some years ago began to collect the
-subject-matter for a book of this kind, by jotting down all questions
-about camping, &c., that my young friends asked me. I have also taken
-pains, when I have been off on a walk, or have been camping, to notice
-the parties of campers and trampers that I have chanced to meet, and
-have made a note of their failures or success. The experiences of the
-pleasant days when, in my teens, I climbed the mountains of Oxford
-County, or sailed through Casco Bay, have added largely to the stock of
-notes; and finally the diaries of "the war," and the recollections of
-"the field," have contributed generously; so that, with quotations, and
-some help from other sources, a sizable volume is ready.
-
-Although it is prepared for young men,--for students more especially,--it
-contains much, I trust, that will prove valuable to campers-out in general.
-
-I am under obligations to Dr. Elliott Coues, of the United States Army,
-for the valuable advice contained in Chapter XIII.; and I esteem it a
-piece of good fortune that his excellent work ("Field Ornithology")
-should have been published before this effort of mine, for I hardly know
-where else I could have found the information with authority so
-unquestionable.
-
-Prof. Edward S. Morse has increased the debt of gratitude I already owe
-him, by taking his precious time to draw my illustrations, and prepare
-them for the engraver.
-
-Mr. J. Edward Fickett of Portland, a sailmaker, and formerly of the
-navy, has assisted in the chapter upon tents; and there are numbers of
-my young friends who will recognize the results of their experience, as
-they read these pages, and will please to receive my thanks for making
-them known to me.
-
-PORTLAND, ME., January, 1877.
-
-
-
-
-HOW TO CAMP OUT.
 
 
 
 
 CHAPTER I.
-
+==========
 GETTING READY.
-
+--------------
 
 The hope of camping out that comes over one in early spring, the laying
 of plans and arranging of details, is, I sometimes think, even more
@@ -237,122 +143,10 @@ more things named than you can possibly use to advantage upon any one
 tour. Be careful not to be led astray by it into overloading yourself,
 or filling your camp with useless luggage. Be sure to remember this.
 
-          Ammon'd opodeldoc.
-          Axe (in cover).
-          Axle-grease.
-          Bacon.
-          Barometer (pocket).
-          Bean-pot.
-          Beans (in bag).
-          Beef (dried).
-          Beeswax.
-          Bible.
-          Blacking and brush.
-          Blankets.
-          Boxes.
-          Bread for lunch.
-          Brogans (oiled).
-          Broom.
-          Butter-dish and cover.
-          Canned goods.
-          Chalk.
-          Cheese.
-          Clothes-brush.
-          Cod-line.
-          Coffee and pot.
-          Comb.
-          Compass.
-          Condensed milk.
-          Cups.
-          Currycomb.
-          Dates.
-          Dippers.
-          Dishes.
-          Dish-towels.
-          Drawers.
-          Dried fruits.
-          Dutch oven.
-          Envelopes.
-          Figs.
-          Firkin (see p. 48).
-          Fishing-tackle.
-          Flour (prepared).
-          Frying-pan.
-          Guide-book.
-          Half-barrel.
-          Halter.
-          Hammer.
-          Hard-bread.
-          Harness (examine!).
-          Hatchet.
-          Haversack.
-          Ink (portable bottle).
-          Knives (sheath, table, pocket and butcher.)
-          Lemons.
-          Liniment.
-          Lunch for day or two.
-          Maps.
-          Matches and safe.
-          Marline.
-          Meal (in bag).
-          Meal-bag (see p. 32).
-          Medicines.
-          Milk-can.
-          Molasses.
-          Money ("change").
-          Monkey-wrench.
-          Mosquito-bar.
-          Mustard and pot.
-          Nails.
-          Neat's-foot oil.
-          Night-shirt.
-          Oatmeal.
-          Oil-can.
-          Opera-glass.
-          Overcoat.
-          Padlock and key.
-          Pails.
-          Paper.
-            " collars.
-          Pens.
-          Pepper.
-          Pickles.
-          Pins.
-          Portfolio.
-          Postage stamps.
-          Postal cards.
-          Rope.
-          Rubber blanket.
-             "   coat.
-             "   boots.
-          Sail-needle.
-          Salt.
-           "  fish.
-           "  pork.
-          Salve.
-          Saw.
-          Shingles (for plates).
-          Shirts.
-          Shoes and strings.
-          Slippers.
-          Soap.
-          Song-book.
-          Spade.
-          Spoons.
-          Stove (utensils in bags).
-          Sugar.
-          Tea.
-          Tents.
-            "   poles.
-            "   pins.
-          Tooth-brush.
-          Towels.
-          Twine.
-          Vinegar.
-          Watch and key.
+    -
 
 FOOTNOTES:
-
+----------
 [1] If your haversack-flap has a strap which buckles down upon the
 front, you can run the strap through the cup-handle before buckling; or
 you can buy a rein-hitch at the saddlery-hardware shop, and fasten it
@@ -362,9 +156,9 @@ wherever most convenient to carry the cup.
 
 
 CHAPTER II.
-
+===========
 SMALL PARTIES TRAVELLING AFOOT AND CAMPING.
-
+-------------------------------------------
 
 We will consider separately the many ways in which a party can spend a
 summer vacation; and first we will start into wild and uninhabited
@@ -383,7 +177,7 @@ accustomed to similar hard work.
 
 
 AFOOT.--CAMPING OUT.
-
+--------------------
 A second and more rational way, especially for small parties, is that of
 travelling afoot in the roads of a settled country, carrying a blanket,
 tent, food, and cooking-utensils; cooking your meals, and doing all the
@@ -457,7 +251,7 @@ tearing out the back.
 
 
 WOOLLEN BLANKET.
-
+----------------
 Next in the order of necessities is a woollen blanket,--a good stout
 one, rather than the light or flimsy one that you may think of taking.
 In almost all of the Northern States the summer nights are apt to be
@@ -527,24 +321,24 @@ company property.
 I have supposed every one to be dressed about as usual, and have made
 allowance only for extra weight; viz.,--
 
-          Rubber blanket                                2-1/2 pounds.
-          Stout woollen blanket and lining              4-1/2   "
-          Knapsack, haversack, and canteen              4       "
-          Drawers, spare shirt, socks, and collars      2       "
-          Half a shelter-tent, and ropes                2       "
-          Toilet articles, stationery, and small wares  2       "
-          Food for one day                              3       "
+          *Rubber blanket                                2-1/2 pounds.
+          *Stout woollen blanket and lining              4-1/2   "
+          *Knapsack, haversack, and canteen              4       "
+          *Drawers, spare shirt, socks, and collars      2       "
+          *Half a shelter-tent, and ropes                2       "
+          *Toilet articles, stationery, and small wares  2       "
+          *Food for one day                              3       "
                                                         ----
-                Total                                   20 pounds.
+                *Total                                   20 pounds.
 
 You may be able to reduce the weight here given by taking a lighter
 blanket, and no knapsack or canteen; but most likely the food that you
 actually put in your haversack will weigh more than three pounds. You
 must also carry your share of the following things:--
 
-          Frying-pan, coffee-pot, and pail        3 pounds.
-          Hatchet, sheath-knife, case, and belt   3   "
-          Company property named on last page     3   "
+          *Frying-pan, coffee-pot, and pail        3 pounds.
+          *Hatchet, sheath-knife, case, and belt   3   "
+          *Company property named on last page     3   "
 
 Then if you carry a heavier kind of tent than the "shelter," or carry
 tent-poles, you must add still more. Allow also nearly three pounds a
@@ -567,7 +361,7 @@ move your camp at all.
 
 
 OTHER WAYS OF GOING AFOOT.
-
+--------------------------
 It is not necessary to say much about the other ways of going afoot. If
 you can safely dispense with cooking and carrying food, much will be
 gained for travel and observation. The expenses, however, will be
@@ -588,7 +382,7 @@ travel honorably, and without begging, I should advise you to stay at
 home.
 
 FOOTNOTES:
-
+----------
 [2] A German officer tells me that his comrades in the Franco-Prussian
 war of 1870-1 had no rubber blankets; nor had they any shelter-tents
 such as our Union soldiers used in 1861-5 as a make-shift when their
@@ -615,9 +409,9 @@ has his whim.
 
 
 CHAPTER III.
-
+============
 LARGE PARTY TRAVELLING AFOOT WITH BAGGAGE-WAGON.
-
+------------------------------------------------
 
 With a horse and wagon to haul your baggage you can of course carry
 more. First of all take another blanket or two, a light overcoat, more
@@ -770,7 +564,7 @@ experience with the ways of the world. You will need it very much.
 
 
 WAGONS.
-
+-------
 If you have the choice of wagons, take one that is made for carrying
 light, bulky goods, for your baggage will be of that order. One with a
 large body and high sides, or a covered wagon, will answer. In districts
@@ -801,7 +595,7 @@ trot, or at a walk.
 
 
 HARNESS.
-
+--------
 If your load is heavy, and the roads very hard, or the daily distance
 long, you had better have a collar for the horse: otherwise a
 breastplate-harness will do. In your kit of tools it is well to have a
@@ -813,7 +607,7 @@ and rain, rats and mice.
 
 
 ADVANTAGES AND DISADVANTAGES OF THIS MODE OF TRAVEL.
-
+----------------------------------------------------
 This way of travelling is peculiarly adapted to a party of different
 ages, rather than for one exclusively of young men. It is especially
 suitable where there are ladies who wish to walk and camp, or for an
@@ -844,7 +638,7 @@ wagon, nor to fall under the horse's feet, should he stumble. These are
 daily and hourly risks: hence no small boy should take this duty.[6]
 
 FOOTNOTES:
-
+----------
 [5] I never heard of a party exclusively of young men going on a tour of
 this kind, and consequently I cannot write their experiences; but I can
 easily imagine their troubles, quarrels, and separation into cliques. I
@@ -869,16 +663,16 @@ wheels.
 
 
 CHAPTER IV.
-
+===========
 CLOTHING.
-
+---------
 
 If your means allow it, have a suit especially for the summer tour, and
 sufficiently in fashion to indicate that you are a traveller or camper.
 
 
 SHIRTS.
-
+-------
 Loose woollen shirts, of dark colors and with flowing collars, will
 probably always be the proper thing. Avoid gaudiness and too much
 trimming. Large pockets, one over each breast, are "handy;" but they
@@ -895,13 +689,13 @@ they as expensive, as the latter.
 
 
 DRAWERS.
-
+--------
 If you wear drawers, better turn them inside out, so that the seams may
 not chafe you. They _must_ be loose.
 
 
 SHOES.
-
+------
 You need to exercise more care in the selection of shoes than of any
 other article of your outfit. Tight boots put an end to all pleasure, if
 worn on the march; heavy boots or shoes, with enormously thick soles,
@@ -937,7 +731,7 @@ smoothly, since a bunch in the stocking is apt to bruise the skin.
 
 
 PANTALOONS.
-
+-----------
 Be sure to have the trousers loose, and made of rather heavier cloth
 than is usually worn at home in summer. They should be cut high in the
 waist to cover the stomach well, and thus prevent sickness.
@@ -966,9 +760,9 @@ washed by your unskilled hands.
 
 
 CHAPTER V.
-
+==========
 STOVES AND COOKING-UTENSILS.
-
+----------------------------
 
 If you have a permanent camp, or if moving you have wagon-room enough,
 you will find a stove to be most valuable property. If your party is
@@ -1065,9 +859,9 @@ thing with hinged joints or complicated mechanism.
 
 
 CHAPTER VI.
-
+===========
 COOKING, AND THE CARE OF FOOD.
-
+------------------------------
 
 When living in the open air the appetite is so good, and the pleasure of
 getting your own meals is so great, that, whatever may be cooked, it is
@@ -1120,7 +914,7 @@ put in the food: this prevents it from soaking fat.
 
 
 BAKED BEANS, BEEF, AND FISH.
-
+----------------------------
 Lumbermen bake beans deliciously in an iron pot that has a cover with a
 projecting rim to prevent the ashes from getting in the pot. The beans
 are first parboiled in one or two waters until the outside skin begins
@@ -1148,7 +942,7 @@ this manner.
 
 
 CARE OF FOOD.
-
+-------------
 You had better _carry_ butter in a tight tin or wooden box. In permanent
 camp you can sink it in strong brine, and it will keep some weeks.
 Ordinary butter will not keep sweet a long time in hot weather unless in
@@ -1196,9 +990,9 @@ to do dishcloth duty.
 
 
 CHAPTER VII.
-
+============
 MARCHING.[7]
-
+-------------
 
 It is generally advised by medical men to avoid violent exercise
 immediately after eating. They are right; but I cannot advise you to
@@ -1255,7 +1049,7 @@ it hurts you, quit it.
 
 
 FOOT-SORENESS AND CHAFING.
-
+--------------------------
 After you have marched one day in the sun, your face, neck, and hands
 will be sunburnt, your feet sore, perhaps blistered, your limbs may be
 chafed; and when you wake up on the morning of the second day, after an
@@ -1374,7 +1168,7 @@ of rubbish behind for the farmer to clear up.
 
 
 MOUNTAIN CLIMBING.
-
+------------------
 When you climb a mountain, make up your mind for hard work, unless there
 is a carriage-road, or the mountain is low and of gentle ascent. If
 possible, make your plans so that you will not have to carry much up and
@@ -1411,7 +1205,7 @@ attempt it; but to climb over loose rocks and through scrub-spruce for
 miles, is too difficult for them.
 
 FOOTNOTES:
-
+----------
 [7] Some of the questions which properly belong under this heading are
 discussed elsewhere, and can be found by referring to the index.
 
@@ -1427,9 +1221,9 @@ Companion_: Van Nostrand, N.Y.
 
 
 CHAPTER VIII.
-
+=============
 THE CAMP.
-
+---------
 
 It pays well to take some time to find a good spot for a camp. If you
 are only to stop one night, it matters not so much; but even then you
@@ -1486,7 +1280,7 @@ prefer): you will then have more daylight than you need.
 
 
 BEDS.
-
+-----
 Time used in making a bed is well spent. Never let yourself be persuaded
 that humps and hollows are good enough for a tired man. If you cut
 boughs, do not let large sticks go into the bed: only put in the smaller
@@ -1515,7 +1309,7 @@ you are in a permanent camp.
 
 
 SLEEPING.
-
+---------
 "Turn in" early, so as to be up with the sun. You may be tempted to
 sleep in your clothes; but if you wish to know what luxury is, take them
 off as you do at home, and sleep in a sheet, having first taken a bath,
@@ -1547,7 +1341,7 @@ dangerous.
 
 
 SINKS.
-
+------
 In a permanent camp you must be careful to deposit all refuse from the
 kitchen and table in a hole in the ground: otherwise your camp will be
 infested with flies, and the air will become polluted. These sink-holes
@@ -1571,7 +1365,7 @@ permanent camp or on the march.
 
 
 HOW TO KEEP WARM.
-
+-----------------
 When a cold and wet spell of weather overtakes you, you will inquire,
 "How can we keep warm?" If you are where wood is very abundant, you can
 build a big fire ten or fifteen feet from the tent, and the heat will
@@ -1609,7 +1403,7 @@ trench and fireplace, make them so that the rain shall not flood them.
 
 
 FIREPLACE.
-
+----------
 If flat rocks and mud are plenty, you can perhaps build a fireplace at
 the door of your tent (outside, of course), and you will then have
 something both substantial and valuable. Fold one flap of the door as
@@ -1639,7 +1433,7 @@ of the pail.
 
 
 HUNTERS' CAMP.
-
+--------------
 [Illustration]
 
 It is not worth while to say much about those hunters' camps which are
@@ -1677,7 +1471,7 @@ These frames will be found useful for other purposes, and it is well to
 remember how to make them.
 
 FOOTNOTES:
-
+----------
 [9] Barrel-staves will not do for a double bed.
 
 [10] It will roll up easier if the quilting runs from side to side only.
@@ -1689,9 +1483,9 @@ as the wall, "A," and shelter.
 
 
 CHAPTER IX.
-
+===========
 TENTS.--ARMY SHELTER-TENT (_tente d'abri_).
-
+-------------------------------------------
 
 The shelter-tent used by the Union soldiers during the Rebellion was
 made of light duck[12] about 31-1/2 inches wide. A tent was made in two
@@ -1761,7 +1555,7 @@ inches wide to be used in all instances.
 
 
 THE A-TENT.
-
+-----------
 To make an A-tent,[15] draw upon the floor a straight line seven feet
 long, to represent the upright pole or height of the tent; then draw a
 line at right angles to and across the end of the first one, to
@@ -1854,7 +1648,7 @@ sod-cloth, the poles should be longer still.[18]
 
 
 THE WALL-TENT.
-
+--------------
 The wall-tent is shaped like a house: the walls or sides, which are
 perpendicular, are four feet high. A continuous piece of cloth runs from
 the ground to the eaves, thence on toward the ridgepole, and down the
@@ -1920,7 +1714,7 @@ the tent, and thus lift the fly well off the roof.
 
 
 CLOTH FOR TENTS.
-
+-----------------
 For convenience we have supposed all of the tents to be made of heavy
 drilling. Many tent-makers consider this material sufficiently strong,
 and some even use it to make tents larger than the United States army
@@ -1970,7 +1764,7 @@ water run up hill.
 
 
 HOW TO PITCH A WALL-TENT QUICKLY.
-
+---------------------------------
 After you have once pitched the tent, and have put the poles and pins in
 their exact places, note the distance from one of the upright poles to
 the pin holding one of the nearest corner guy-lines, and then mark one
@@ -2000,7 +1794,7 @@ over.
 
 
 TENT-POLES.
-
+-----------
 As tent-poles are not expensive, you may find it convenient to have two
 sets for each tent; one stout set for common use, and a lighter set to
 take when transportation is limited. Sound spruce, free from large knots
@@ -2031,7 +1825,7 @@ from splitting the ridgepole.
 
 
 TENT-PINS.
-
+----------
 Tent-pins should be made of sound hard wood; old wheel-spokes are
 excellent. Make them pointed at the bottom, so that they will drive
 easily; and notch them about two inches from the top, so that they will
@@ -2060,7 +1854,7 @@ loose with the tent, as it soils and wears out the cloth.
 
 
 BEST SIZE OF TENTS.
-
+-------------------
 The majority of people who go into permanent camp prefer tents
 considerably larger than the army wall-tent; but, unless your camp is
 well sheltered from the wind, you will have constant and serious
@@ -2085,7 +1879,7 @@ its being chafed and soiled when it is handled and carried. You will
 find a hundred good uses for the bag in camp.
 
 FOOTNOTES:
-
+-----------
 [12] You cannot find this sort of duck in the market now, but "heavy
 drilling" 29-1/2 inches wide is nearly as strong, and will make a good
 tent.
@@ -2148,9 +1942,9 @@ for this purpose.
 
 
 CHAPTER X.
-
+==========
 MISCELLANEOUS.--GENERAL ADVICE.
-
+-------------------------------
 
 If you travel horseback, singly or in parties, a previous experience in
 riding and in the care of your animal are necessary for pleasure. What
@@ -2164,7 +1958,7 @@ neck instead of a pull at the bit.
 
 
 BOATING.
-
+---------
 I do not propose to say much about boating, as the subject can hardly
 have justice done to it in a book of this sort. Parties of young men
 spend their summer vacation every year in camping and boating. It is a
@@ -2188,7 +1982,7 @@ bay in a boat sailed by a boy."
 
 
 RECKONING LOST.
-
+---------------
 It often happens in travelling, that the sun rises in what appears the
 north, west, or south, and we seem to be moving in the wrong direction,
 so that when we return home our remembrance of the journey is confused.
@@ -2231,7 +2025,7 @@ even if you have a good map with you.
 
 
 LADIES AS PEDESTRIANS.
-
+----------------------
 I have once or twice alluded to ladies walking and camping. It is
 thoroughly practicable for them to do so. They must have a wagon, and do
 none of the heavy work; their gowns must not reach quite to the ground,
@@ -2249,7 +2043,7 @@ is brewing.
 
 
 LADIES AND CHILDREN IN CAMP.
-
+-----------------------------
 In a permanent camp, however, ladies, and children as well, can make
 themselves thoroughly at home.[24] They ought not to "rough it" so much
 as young men expect to: consequently they should be better protected
@@ -2275,7 +2069,7 @@ weather and while the dew is upon the grass.
 
 
 SUMMER-HOUSES, SHEDS, AND BRUSH SCREENS.
-
+----------------------------------------
 There is little to be said of the summer-houses built at the seaside
 near our large cities, since that is rather a matter of carpentry; nor
 of portable houses; nor of lattice-work with painted paper; nor even of
@@ -2295,7 +2089,7 @@ stakes wedged down the hole after putting in the tree will make it firm.
 
 
 ETIQUETTE.
-
+------------
 Some things considered essential at the home table have fallen into
 disuse in camp. It is pardonable, and perhaps best, to bring on whatever
 you have cooked in the dish that it is cooked in, so as to prevent its
@@ -2335,7 +2129,7 @@ and hungry.
 
 
 MOSQUITOES, BLACK FLIES, AND MIDGE.
-
+-----------------------------------
 These pests will annoy you exceedingly almost everywhere in the summer.
 In the daytime motion and perspiration keep them off to some extent. At
 night, or when lying down, you can do no better than to cover yourself
@@ -2386,7 +2180,7 @@ you can move it about as often as the wind changes.
 
 
 HOW TO SKIN FISH.
-
+------------------
 When you camp by the seaside, you will catch cunners and other fish that
 need skinning. Let no one persuade you to slash the back fins out with a
 single stroke, as you would whittle a stick; but take a sharp knife, cut
@@ -2406,7 +2200,7 @@ water through the net prevents the fish from escaping.
 
 
 EXPENSES.
-
+---------
 The expenses of camping or walking vary greatly, of course, according to
 the route, manner of going, and other things. The principal items are
 railroad-tickets, horse and wagon hire, trucking, land-rent (if you camp
@@ -2438,7 +2232,7 @@ hardly live at a cheaper rate than the following:--
 
 
 ONE WEEK'S SUPPLY FOR TWO MEN.
-
+------------------------------
 Ten pounds of pilot-bread; eight pounds of salt pork; one pound of
 coffee (roasted and ground); one to two pounds of sugar (granulated);
 thirty pounds of potatoes (half a bushel).[26] A little beef and butter,
@@ -2510,7 +2304,7 @@ this is especially liable to be the case if you have overworked
 yourself, or have not had enough sleep.
 
 FOOTNOTES:
-
+-----------
 [23] A flannel dress, the skirt coming to the top of the boots, and
 having a blouse waist, will be found most comfortable.
 
